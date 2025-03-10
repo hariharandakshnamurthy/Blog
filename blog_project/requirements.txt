@@ -11,6 +11,7 @@ pytest-playwright==0.7.0
 python-slugify==8.0.4
 setuptools==75.8.2
 SQLAlchemy==2.0.38
+gunicorn==21.2.0  # (or latest version)
 
 
 
